@@ -14,4 +14,4 @@ Limitations:
 
 - For cards with more than one label last color will win. Other colors will be left as they were.
 
-[Click here](docs/more_words.md) to install.
+[Click here](https://github.com/dholovnia/trellorizer/blob/master/trellorizer.js) to install.
