@@ -16,4 +16,4 @@ Limitations:
 
 [Click here](https://github.com/dholovnia/trellorizer/raw/master/trellorizer.user.js) to install.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Trello colorizer demo image")
+![Alt text](https://cloud.githubusercontent.com/assets/2066357/15247217/5653a602-191b-11e6-9c1d-c0e087db2830.png "Trello colorizer demo image")
